@@ -1,2 +1,2 @@
 # Algorithms
-My Attempts To make Effiecient Algorithms..
+My Attempts To make Efficient Algorithms..
